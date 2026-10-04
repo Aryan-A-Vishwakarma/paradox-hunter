@@ -1,0 +1,701 @@
+treatment,stone_size,success
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),0
+B: percutaneous,large (>=2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),0
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),0
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),0
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),0
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),0
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
+B: percutaneous,large (>=2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),0
+B: percutaneous,small (<2cm),1
+B: percutaneous,small (<2cm),0
+B: percutaneous,small (<2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),0
+A: open surgery,large (>=2cm),1
+A: open surgery,small (<2cm),1
+B: percutaneous,small (<2cm),1
+A: open surgery,large (>=2cm),1
+B: percutaneous,large (>=2cm),1
+B: percutaneous,small (<2cm),1
+B: percutaneous,large (>=2cm),0
